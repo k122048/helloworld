@@ -7,6 +7,7 @@ public class Main {
 
 		 hello h = new hello();
 		 h.myPrint();
+		 h.myName();
 	}
 
 }
